@@ -12,4 +12,4 @@
 
 ✅ Демо: [okxsmart.github.io/voice_html](https://okxsmart.github.io/voicerus_html)
 
-📩 Писать сюда: @Okx_Smartbot# voicerus_html
+📩 Писать сюда: @Okx_Smartbot
